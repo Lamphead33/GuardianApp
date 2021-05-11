@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="help">help</string>
+    <string name="open">Open</string>
+    <string name="close">Close</string>
+    <string name="results">Results</string>
+    <string name="backChat">Favorites</string>
+    <string name="backLog">Search</string>
+    <string name="goSearch">Search Article</string>
+    <string name="home">Home</string>
+    <string name="goHome">Go Home</string>
+    <string name="goFavorites">Favorites</string>
+    <string name="article">article</string>
+    <string name="goToSearch">Going to Search</string>
+    <string name="goToFavorites">Going to Favorites</string>
+    <string name="goToLastArticle">Going to Last Article</string>
+    <string name="clickHelp">You have clicked Help</string>
+    <string name="goToHome">Going to Home Page</string>
+    <string name="searchHint">Enter search term here...</string>
+    <string name="searchForContentInc">Searching for content including: </string>
+    <string name="undo">UNDO</string>
+    <string name="addFavorites">Add To Favourites</string>
+    <string name="back">BACK</string>
+    <string name="UEE">Unsupported Encoding Exception</string>
+    <string name="IOE">IO Exception</string>
+    <string name="JSE">JSON Exception</string>
+    <string name="done">Done</string>
+    <string name="searchHelp">In this page, click on the search bar, enter your search request, and click on \'SEARCH\' to display the results.</string>
+    <string name="mainHelp">In this page, click on \"SEARCH ARTICLE\" to view the search page, where you may search for articles. Or, you can click on \"FAVORITES\" to view the articles you have saved into your favorites.</string>
+    <string name="resultsHelp">In this page, simply click on an article you wish to read to be redirected to the web page. Also, you may long-click on the article to view more information about it.</string>
+    <string name="favoritesHelp">In this page, you can view all the articles you saved in your favorites. Click on them to view them in the web page, or long-click to view more information about them.</string>
+    <string name="version">Version 1.0</string>
+    <string name="activityName">Hello world</string>
+    <string name="favsToast">Article added to favourites!</string>
+
+</resources>

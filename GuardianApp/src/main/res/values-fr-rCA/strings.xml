@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">ProjectFinal</string>
+    <string name="help">Aide</string>
+    <string name="open">Ouvrir</string>
+    <string name="close">Fermer</string>
+    <string name="results">Resultats</string>
+    <string name="backChat">Favoris</string>
+    <string name="backLog">Chercher</string>
+    <string name="goSearch">Rechercher un Article</string>
+    <string name="home">Accueil</string>
+    <string name="goHome">Allez à L\'accueil</string>
+    <string name="goFavorites">Favoris</string>
+    <string name="article">article</string>
+    <string name="goToSearch">Aller à la recherche</string>
+    <string name="goToFavorites">Aller aux Favoris</string>
+    <string name="goToLastArticle">Aller au dernier article</string>
+    <string name="clickHelp">Vous avez cliqué sur Aide</string>
+    <string name="goToHome">Aller à la page d\'accueil</string>
+    <string name="searchHint">Entrez votre recherche ici ...</string>
+    <string name="searchForContentInc">Recherche de contenu comprenant: </string>
+    <string name="undo">ANNULER</string>
+    <string name="addFavorites">Ajouter au favoris"</string>
+    <string name="back">RETOURS</string>
+    <string name="UEE">Exception de codage non prise en charge</string>
+    <string name="IOE">Exception IO</string>
+    <string name="JSE">Exception JSON</string>
+    <string name="done">Fini</string>
+    <string name="searchHelp">Dans cette page, cliquez sur la barre de recherche, entrez votre demande de recherche et cliquez sur «CHERCHER» pour afficher les résultats.</string>
+    <string name="mainHelp">Dans cette page, cliquez sur  «RECHERCHER UN ARTICLE» pour afficher la page de recherche, où vous pouvez rechercher des articles. Ou, vous pouvez cliquer sur «FAVORIS» pour afficher les articles que vous avez enregistrés dans vos favoris.</string>
+    <string name="resultsHelp">Dans cette page, cliquez simplement sur un article que vous souhaitez lire pour être redirigé vers la page web. En outre, vous pouvez cliquer longuement sur l\'article pour afficher plus d\'informations à ce sujet.</string>
+    <string name="favoritesHelp">Dans cette page, vous pouvez voir tous les articles que vous avez enregistrés dans vos favoris. Cliquez dessus pour les afficher dans la page Web, ou cliquez longuement pour afficher plus d\'informations à leur sujet.</string>
+    <string name="version">Version 1.0</string>
+    <string name="activityName">Hello world</string>
+    <string name="favsToast">Article ajouté aux favoris</string>
+</resources>
